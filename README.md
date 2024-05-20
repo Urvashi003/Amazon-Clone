@@ -9,4 +9,4 @@ The application features product listings, a shopping cart, and a checkout proce
 - CSS: Styling and layout of the web pages.
 - JavaScript: Interactivity and dynamic behavior of the web pages.
 
-- 
+  
